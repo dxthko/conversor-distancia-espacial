@@ -16,9 +16,9 @@ Aqui irei criar um **Conversor de Distância Espacial**. Ele possuirá os seguin
 - Exibir um alerta contendo a **distância em anos-luz** e a **distância convertida** para a operação desejada;
 
 - Conversões a serem utilizadas:
-  1 l.y. = 0,306601pc
-  1 l.y. = 63241,1 AU
-  1 l.y. = 9,5 x 10^12
+  1 l.y. = 0.306601pc
+  1 l.y. = 63241.1 AU
+  1 l.y. = 9.5 x 10^12
 
 - Para a conversão de anos-luz para kilômetros, será necessário usar o Math.pow(10,12) para obter o valor de 10^12;
 
