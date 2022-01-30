@@ -24,4 +24,4 @@ Aqui irei criar um **Conversor de Distância Espacial**. Ele possuirá os seguin
 
 - Se o usuário digitar alguma opção que não seja nenhuma das três, será exibido a seguinte mensagem: "Distância em anos-luz: x. Unidade não identificada, conversão fora do escopo."
 
-Deploy da página está [aqui](https://conversor-distancia-espacial.vercel.app/)].
+Deploy da página está [aqui](https://conversor-distancia-espacial.vercel.app/).
